@@ -1,3 +1,7 @@
 README
 An account can have multiple subscriptions. 
 Each subscription has a tenant ID.
+An application has an object ID and a display name.
+A service principal has an object ID and a dispaly name same as application display name, 
+servie principal names that has its application ID and application Identifieri URIs.
+
